@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Copy List with Random Pointer", "Copy List with Random Pointer\Copy List with Random Pointer.vcxproj", "{316545A8-B90A-4E02-B2C2-C75F3E6AF2A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316545A8-B90A-4E02-B2C2-C75F3E6AF2A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{316545A8-B90A-4E02-B2C2-C75F3E6AF2A9}.Debug|Win32.Build.0 = Debug|Win32
+		{316545A8-B90A-4E02-B2C2-C75F3E6AF2A9}.Release|Win32.ActiveCfg = Release|Win32
+		{316545A8-B90A-4E02-B2C2-C75F3E6AF2A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿生成启动时间为 2015/4/15 23:17:49。
+     1>项目“F:\my codes\rely on VS\ZigZag Conversion\ZigZag Conversion\ZigZag Conversion.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 000.cpp
+         000.cpp
+     1>f:\my codes\rely on vs\zigzag conversion\zigzag conversion\000.cpp(11): warning C4018: “<=”: 有符号/无符号不匹配
+     1>f:\my codes\rely on vs\zigzag conversion\zigzag conversion\000.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\my codes\rely on vs\zigzag conversion\zigzag conversion\000.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\my codes\rely on VS\ZigZag Conversion\Debug\ZigZag Conversion.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\my codes\rely on VS\ZigZag Conversion\Debug\ZigZag Conversion.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\my codes\rely on VS\ZigZag Conversion\Debug\ZigZag Conversion.lib" /MACHINE:X86 Debug\000.obj
+         ZigZag Conversion.vcxproj -> F:\my codes\rely on VS\ZigZag Conversion\Debug\ZigZag Conversion.exe
+     1>已完成生成项目“F:\my codes\rely on VS\ZigZag Conversion\ZigZag Conversion\ZigZag Conversion.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.84

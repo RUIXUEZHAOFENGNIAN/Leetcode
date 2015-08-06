@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flatten Binary Tree to Linked List", "Flatten Binary Tree to Linked List\Flatten Binary Tree to Linked List.vcxproj", "{A1793BF4-2D55-4C66-A4C3-A927A9A510EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1793BF4-2D55-4C66-A4C3-A927A9A510EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1793BF4-2D55-4C66-A4C3-A927A9A510EF}.Debug|Win32.Build.0 = Debug|Win32
+		{A1793BF4-2D55-4C66-A4C3-A927A9A510EF}.Release|Win32.ActiveCfg = Release|Win32
+		{A1793BF4-2D55-4C66-A4C3-A927A9A510EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

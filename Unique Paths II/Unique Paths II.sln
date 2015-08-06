@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unique Paths II", "Unique Paths II\Unique Paths II.vcxproj", "{38B4FB69-DC4A-4878-A3EC-7954C65FC24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B4FB69-DC4A-4878-A3EC-7954C65FC24A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38B4FB69-DC4A-4878-A3EC-7954C65FC24A}.Debug|Win32.Build.0 = Debug|Win32
+		{38B4FB69-DC4A-4878-A3EC-7954C65FC24A}.Release|Win32.ActiveCfg = Release|Win32
+		{38B4FB69-DC4A-4878-A3EC-7954C65FC24A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/4/16 23:19:27。
+     1>项目“F:\my codes\rely on VS\20150416\20150416\20150416.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 000.cpp
+         000.cpp
+     1>f:\my codes\rely on vs\20150416\20150416\000.cpp(50): error C4703: 使用了可能未初始化的本地指针变量“back”
+     1>已完成生成项目“F:\my codes\rely on VS\20150416\20150416\20150416.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.07

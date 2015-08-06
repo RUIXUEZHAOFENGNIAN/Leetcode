@@ -1,0 +1,5 @@
+F:\my codes\rely on VS\chap01\chap01\bin\Debug\chap01.exe
+F:\my codes\rely on VS\chap01\chap01\bin\Debug\chap01.pdb
+F:\my codes\rely on VS\chap01\chap01\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\my codes\rely on VS\chap01\chap01\obj\x86\Debug\chap01.exe
+F:\my codes\rely on VS\chap01\chap01\obj\x86\Debug\chap01.pdb

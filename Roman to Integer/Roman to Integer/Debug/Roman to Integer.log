@@ -1,0 +1,16 @@
+﻿生成启动时间为 2015/4/14 1:42:36。
+     1>项目“F:\my codes\rely on VS\Roman to Integer\Roman to Integer\Roman to Integer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 000.cpp
+         000.cpp
+     1>f:\my codes\rely on vs\roman to integer\roman to integer\000.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\my codes\rely on vs\roman to integer\roman to integer\000.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\my codes\rely on vs\roman to integer\roman to integer\000.cpp(19): warning C4715: “transf”: 不是所有的控件路径都返回值
+       Link:
+         D:\software\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\my codes\rely on VS\Roman to Integer\Debug\Roman to Integer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\my codes\rely on VS\Roman to Integer\Debug\Roman to Integer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\my codes\rely on VS\Roman to Integer\Debug\Roman to Integer.lib" /MACHINE:X86 Debug\000.obj
+         Roman to Integer.vcxproj -> F:\my codes\rely on VS\Roman to Integer\Debug\Roman to Integer.exe
+     1>已完成生成项目“F:\my codes\rely on VS\Roman to Integer\Roman to Integer\Roman to Integer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.59
